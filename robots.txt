@@ -17,3 +17,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://abudhabi-realestate.github.io/sitemap.xml
+Sitemap: https://abudhabi-realestate.github.io/sitemap.txt
